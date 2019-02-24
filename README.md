@@ -10,6 +10,7 @@ A window like detector is used to faces in an Image and count them. This method 
 2. Regression based methods:-  
 
 These methods extract patches from the Image and then for every individual patch, we try to extract low level features.  
+This methods directly map from the image features to the number of people, without explicit object detection.  
 
 3. CNN based methods:-  
 
