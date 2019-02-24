@@ -16,6 +16,9 @@ This methods directly map from the image features to the number of people, witho
 
 The most reliable networks are CNN, In this I have used CSRNet to count the crowd in an Image.  
 
+4. Density based methods:-  
+The concept of an object density map, where the integral (sum) over any subregion equals the number of objects in that region. The density values are estimated from low-level features, thus sharing the advantages of general regression-based methods, while also maintaining location information. 
+
 
 ## Reference Paper:-
 
