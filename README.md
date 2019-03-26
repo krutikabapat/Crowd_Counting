@@ -1,7 +1,7 @@
 # Crowd_Counting
 Crowd counting is a technique to estimate or count the number of people present in an Image. 
 
-## Methods used for crowd countin:-
+## Methods used for crowd counting:-
 
 1. Detection Based Methods:-  
 
