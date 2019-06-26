@@ -25,4 +25,4 @@ The concept of an object density map, where the integral (sum) over any subregio
 1. https://arxiv.org/pdf/1705.10118.pdf  
 2. https://arxiv.org/pdf/1802.10062.pdf
 
-[Screenshot] (net.png)
+[Screenshot] (CSRNet.png)
