@@ -27,3 +27,11 @@ The concept of an object density map, where the integral (sum) over any subregio
 2. https://arxiv.org/pdf/1802.10062.pdf
 
 ![Screenshot](CSRNet.png)
+
+
+## Sample Output from CSRNet:-    
+
+![Screenshot](https://github.com/krutikabapat/Crowd_Counting/blob/master/kumbh.png)    
+
+
+
